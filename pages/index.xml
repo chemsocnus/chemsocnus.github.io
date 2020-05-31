@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Chemical Sciences Society</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Chemical Sciences Society</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
+    
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>History</title>
+      <link>/history/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>/history/</guid>
+      <description> About Heading </description>
+    </item>
+    
+    <item>
+      <title>More About Us</title>
+      <link>/about/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>/about/</guid>
+      <description> Join us in our journey CSS is always looking for eager students to help us in our work. From corporate liaising to organising orientations to publishing websites, we require a wide repertoire of talents for our diverse events. If you&amp;rsquo;re interested, do check out our annual events calendar below, and feel free to go to our contact page to get in touch with us!
+ </description>
+    </item>
+    
+  </channel>
+</rss>
