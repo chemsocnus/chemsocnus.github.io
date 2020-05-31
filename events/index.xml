@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Past Events on Chemical Sciences Society</title>
-    <link>chemsocnus.github.io/events/</link>
+    <link>/events/</link>
     <description>Recent content in Past Events on Chemical Sciences Society</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
     
-	<atom:link href="chemsocnus.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chemistry Night</title>
-      <link>chemsocnus.github.io/events/fall-plaza/</link>
+      <link>/events/fall-plaza/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>chemsocnus.github.io/events/fall-plaza/</guid>
+      <guid>/events/fall-plaza/</guid>
       <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
     </item>
     
     <item>
       <title>BASF Kids’ Lab</title>
-      <link>chemsocnus.github.io/events/basf/</link>
+      <link>/events/basf/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>chemsocnus.github.io/events/basf/</guid>
+      <guid>/events/basf/</guid>
       <description>Volunteering at BASF Kids’ Lab by BASF Kids’ Lab Asia Pacific is a yearly initiative we undertake, where we do fun and simple science experiments with children.</description>
     </item>
     
     <item>
       <title>Welfare Lunch</title>
-      <link>chemsocnus.github.io/events/modern-hospital/</link>
+      <link>/events/modern-hospital/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>chemsocnus.github.io/events/modern-hospital/</guid>
+      <guid>/events/modern-hospital/</guid>
       <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
     </item>
     
     <item>
       <title>Chemistry Freshmen Orientation Camp</title>
-      <link>chemsocnus.github.io/events/chemistryfoc/</link>
+      <link>/events/chemistryfoc/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>chemsocnus.github.io/events/chemistryfoc/</guid>
+      <guid>/events/chemistryfoc/</guid>
       <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
 Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
     </item>
