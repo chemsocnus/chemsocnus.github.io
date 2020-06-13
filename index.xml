@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Chemistry Night</title>
-      <link>/events/fall-plaza/</link>
+      <title>Chemistry Freshmen Orientation Camp</title>
+      <link>/events/chemistryfoc/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/events/fall-plaza/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>/events/chemistryfoc/</guid>
+      <description>One of the main events organized by CSS, Chemistry Freshmen Orientation Camp (FOC) is a 3D2N overnight camp targeted at Chemistry freshmen. Filled with fun bonding activities, Chemistry FOC will allow you to meet new friends that will accompany you through your university journey! It is also an opportunity to learn more about the Chemistry curriculum from your friendly seniors. Kickstart your university life with us!</description>
     </item>
     
     <item>
@@ -40,22 +39,12 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
     </item>
     
     <item>
-      <title>BASF Kids’ Lab</title>
-      <link>/events/basf/</link>
+      <title>Chemistry Night</title>
+      <link>/events/chemnight/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/events/basf/</guid>
-      <description>Volunteering at BASF Kids’ Lab by BASF Kids’ Lab Asia Pacific is a yearly initiative we undertake, where we do fun and simple science experiments with children.</description>
-    </item>
-    
-    <item>
-      <title>Welfare Lunch</title>
-      <link>/events/modern-hospital/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      
-      <guid>/events/modern-hospital/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>/events/chemnight/</guid>
+      <description>Chemistry Night is also one of the main annual events organized and it brings the NUS Chemistry family together for one final time at the end of each academic year. It bonds the Chemistry community together with delicious food, amazing games and exciting performances!</description>
     </item>
     
     <item>
@@ -68,13 +57,12 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
     </item>
     
     <item>
-      <title>Chemistry Freshmen Orientation Camp</title>
-      <link>/events/chemistryfoc/</link>
+      <title>BASF Kids’ Lab</title>
+      <link>/events/basf/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/events/chemistryfoc/</guid>
-      <description>Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis. Ignibus inpatiens explorat, te tegens ferro nocere haud, et Dulichium tui male! Quo sed fuit flexit et hic die solido, gloria?
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa! Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus esse iam feres mortis Plurima.</description>
+      <guid>/events/basf/</guid>
+      <description>Volunteering at BASF Kids’ Lab by BASF Kids’ Lab Asia Pacific is a yearly initiative we undertake, where we do fun and simple science experiments with children.</description>
     </item>
     
     <item>
@@ -87,6 +75,15 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
     </item>
     
     <item>
+      <title>Essentials for Y1s</title>
+      <link>/events/essentials/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/events/essentials/</guid>
+      <description>Essentials For Year 1 Chemistry helps kickstart the undergraduate life of Chemistry freshmen, and is held at the start of each academic year. Chemistry seniors will be present to share about their student experiences and curriculum planning so that freshmen are aware of the experiences and are able to plan ahead!</description>
+    </item>
+    
+    <item>
       <title>Marketing</title>
       <link>/structure/marketing/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
@@ -96,12 +93,30 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
     </item>
     
     <item>
+      <title>Meet The Researchers</title>
+      <link>/events/researchers/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/events/researchers/</guid>
+      <description>Meet the Researchers is an annual event that connects NUS faculty and researchers with students, allowing students to find out more about ongoing research projects in the department. Curious about Undergraduate Research Opportunities Program in Science (UROPS) and Final Year Project (FYP) opportunities available in NUS? This is definitely an event you would not want to miss!</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/structure/projects/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
       <guid>/structure/projects/</guid>
       <description>We are the main people in charge of the various events you see in our events calendar! Join us in having fun from preparing games for orientation to creating a meaningful farewell during Chemistry Night.</description>
+    </item>
+    
+    <item>
+      <title>Welfare Tea</title>
+      <link>/events/welfare/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/events/welfare/</guid>
+      <description>CSS also organizes occasional welfare teas for the Chemistry freshmen when it is nearing recess week/reading week! What is better than food when it comes to motivation for exams?</description>
     </item>
     
     <item>

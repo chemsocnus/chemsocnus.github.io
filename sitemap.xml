@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/events/fall-plaza/</loc>
+    <loc>/events/chemistryfoc/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -18,12 +18,7 @@
   </url>
   
   <url>
-    <loc>/events/basf/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/events/modern-hospital/</loc>
+    <loc>/events/chemnight/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -33,7 +28,7 @@
   </url>
   
   <url>
-    <loc>/events/chemistryfoc/</loc>
+    <loc>/events/basf/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -43,13 +38,28 @@
   </url>
   
   <url>
+    <loc>/events/essentials/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/structure/marketing/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url>
   
   <url>
+    <loc>/events/researchers/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/structure/projects/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/events/welfare/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
   <url>
